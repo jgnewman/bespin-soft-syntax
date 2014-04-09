@@ -11,4 +11,4 @@ A syntax package for Atom. Inspired by Bespin but with easier-to-look-at colors.
 - SCSS
 - LESS
 
-![Bespin Soft Screenshot](./screenshot.jpg)
+![Bespin Soft Screenshot](https://raw.githubusercontent.com/jgnewman/bespin-soft-syntax/master/screenshot.jpg)
