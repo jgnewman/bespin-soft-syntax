@@ -1,7 +1,7 @@
 {
   "name": "bespin-soft-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Inspired by Bespin but with easier-to-look-at colors.",
   "repository": "https://github.com/jgnewman/bespin-soft-syntax",
   "license": "MIT",
