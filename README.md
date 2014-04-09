@@ -1,6 +1,8 @@
 # Bespin Soft Syntax Theme
 
-Inspired by Bespin but with easier-to-look-at colors. Optimized for:
+A syntax package for Atom. Inspired by Bespin but with easier-to-look-at colors.
+
+**Optimized for:**
 
 - JavaScript
 - HTML
